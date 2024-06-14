@@ -1,1 +1,1 @@
-# go-rpi-gpio-learnings
+# go-rpi-learnings
